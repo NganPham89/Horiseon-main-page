@@ -1,2 +1,8 @@
 # Horiseon-main-page
-Codes for Horiseon's Main Page
+
+## Refactoring Horiseon Welcome Page
+
+-Added semantic html elements
+-Added alt texts to all images
+-Reordered heading attributes
+-Added title to main page
